@@ -1,6 +1,4 @@
-## codingTest
-
-# 코딩테스트 
+## codingTest Study
 
 - 2022.02.01 ~ 
 
